@@ -7,4 +7,4 @@ Infrastructure / SRE engineer · 14 years running 200+ bare-metal servers across
 - 🤖 AI-augmented ops: RAG / LLM agents in production; Claude Code & Cursor every day
 - 🛠️ Python · PHP
 
-📫 jeff9023@gmail.com · [LinkedIn](https://www.linkedin.com/in/jeff-ai-networks/)
+📫 [admin@uu889.com](mailto:admin@uu889.com)
