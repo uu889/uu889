@@ -5,6 +5,6 @@ Infrastructure / SRE engineer · 14 years running 200+ bare-metal servers across
 - 🧰 Tools: Proxmox VE · Docker · Nginx · Terraform · Linux
 - 🌐 Networking: latency optimization, VLAN/subnet design, diagnostics tooling (see NetProbe)
 - 🤖 AI-augmented ops: RAG / LLM agents in production; Claude Code & Cursor every day
-- 🛠️ Python · PHP
+- 🛠️ Go · Python · PHP · MySQL (Go project: [latprobe](https://github.com/uu889/latprobe), a latency prober with Prometheus metrics)
 
 📫 [admin@uu889.com](mailto:admin@uu889.com)
